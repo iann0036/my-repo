@@ -1,0 +1,5 @@
+{
+    "tabd.storage": "repository",
+    "tabd.showBlame": true,
+    "kiroAgent.configureMCP": "Disabled"
+}
